@@ -1,3 +1,3 @@
 # portfolio
 Portfolio de Alexa STROZZI
-A compléter
+A compléter aussi
